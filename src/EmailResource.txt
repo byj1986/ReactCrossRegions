@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/11507387/mailto-body-formatting
+https://stackoverflow.com/questions/5620324/mailto-link-with-html-body
+https://stackoverflow.com/questions/27951843/use-javascript-to-create-an-html-email-in-microsoft-outlook/27971771#27971771
+https://docs.microsoft.com/en-us/openspecs/exchange_server_protocols/ms-oxmsg/b046868c-9fbf-41ae-9ffb-8de2bd4eec82?redirectedfrom=MSDN
+https://jsfiddle.net/seanodotcom/yd1n8Lfh/
