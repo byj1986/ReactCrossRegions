@@ -97,7 +97,6 @@ export class SampleApp extends React.Component {
         var data = new Blob([defaultTemplate], { type: 'text/plain' });
         const emailContext = window.URL.createObjectURL(data);
         FileSaver.saveAs(emailContext, 'message.eml');
-        // window.open(`mailto:${receiver}&subject=${subject('Sprint 51')}&body=bbb`)
     }
 
     render() {
