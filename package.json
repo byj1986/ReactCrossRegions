@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "file-saver": "^2.0.2",
     "http-proxy-middleware": "^0.19.1",
     "npm": "^6.11.2",
     "prop-types": "^15.7.2",
